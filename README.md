@@ -32,30 +32,58 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
+      <td width="33%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
         <h3 style="margin-top: 0;">
           <a href="https://github.com/ibqy/ai-java-teaching-demos" style="color: #2266EE; text-decoration: none;">
-            🎓 AI Java 教学与实战聚合工程 <span style="font-size: 14px;">↗</span>
+            🎓 AI Java 教学与实战 <span style="font-size: 14px;">↗</span>
           </a>
         </h3>
         <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          AI Java 教学与实战聚合工程。整合 Spring AI / Alibaba / Semantic Kernel / AgentScope 四大框架，40+ 实战 Demo，覆盖从基础 Chat 到 RAG/Agent/工具调用等完整场景。
+          聚合四大 AI 框架（Spring AI / Alibaba / Semantic Kernel / AgentScope），40+ 实战 Demo。
         </p>
         <p style="margin-top: 12px;">
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Java</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Spring AI</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px;">Multi-Module</span>
+        </p>
+        <p style="margin-top: 8px;">
           <a href="https://github.com/ibqy/ai-java-teaching-demos" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none; margin-right: 6px;">📂 Repo</a>
           <a href="https://gitee.com/baiqy/ai-java-teaching-demos" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">🇨🇳 Gitee</a>
         </p>
       </td>
-      <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
+      <td width="33%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
+        <h3 style="margin-top: 0;">
+          <a href="https://github.com/ibqy/spring-cloud-micro-demo" style="color: #2266EE; text-decoration: none;">
+            🌩 Spring Cloud 微服务 <span style="font-size: 14px;">↗</span>
+          </a>
+        </h3>
+        <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
+          Spring Cloud 微服务教学项目 — Gateway 网关 + OpenFeign 声明式调用 + 用户/订单业务场景。
+        </p>
+        <p style="margin-top: 12px;">
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Java</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Spring Cloud</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px;">Gateway</span>
+        </p>
+        <p style="margin-top: 8px;">
+          <a href="https://github.com/ibqy/spring-cloud-micro-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
+        </p>
+      </td>
+      <td width="33%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
         <h3 style="margin-top: 0;">
           <a href="https://github.com/ibqy/spring-ai-lab" style="color: #2266EE; text-decoration: none;">
             🤖 Spring AI Lab <span style="font-size: 14px;">↗</span>
           </a>
         </h3>
         <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          Spring AI 全链路实战项目 — Chat / Streaming / Structured Output / Tool Calling / RAG。完整 REST API + 配置切换示例。
+          Spring AI 全链路实战 — Chat / Streaming / Structured Output / Tool Calling / RAG。完整 REST API。
         </p>
         <p style="margin-top: 12px;">
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Java</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Spring AI</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px;">RAG</span>
+        </p>
+        <p style="margin-top: 8px;">
           <a href="https://github.com/ibqy/spring-ai-lab" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
         </p>
       </td>
@@ -68,9 +96,14 @@
           </a>
         </h3>
         <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          MyBatis-Plus 完整教学与实战项目 — Lambda 查询 / 通用 CRUD / 分页 / 乐观锁 / 代码生成器 / 事务。10 篇配套教学文档。
+          Lambda 查询 / 通用 CRUD / 分页 / 乐观锁 / 代码生成器 / 事务。10 篇配套教学文档。
         </p>
         <p style="margin-top: 12px;">
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Java</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">MyBatis-Plus</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px;">Spring Boot</span>
+        </p>
+        <p style="margin-top: 8px;">
           <a href="https://github.com/ibqy/mybatis-plus-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none; margin-right: 6px;">📂 Repo</a>
           <a href="https://gitee.com/baiqy/mybatis-plus-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">🇨🇳 Gitee</a>
         </p>
@@ -82,15 +115,20 @@
           </a>
         </h3>
         <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          Hutool 工具库高级用法示例集 — HTTP / 缓存 / JWT / AOP / Excel / 树结构 等 10+ 生产场景。每个 Demo 独立可运行。
+          HTTP / 缓存 / JWT / AOP / Excel / 树结构 等 10+ 生产场景。每个 Demo 独立可运行。
         </p>
         <p style="margin-top: 12px;">
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Java</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px; margin-right: 4px;">Hutool</span>
+          <span style="display: inline-block; padding: 2px 8px; background: #E8F0FE; border-radius: 4px; color: #2266EE; font-size: 12px;">Utility</span>
+        </p>
+        <p style="margin-top: 8px;">
           <a href="https://github.com/ibqy/hutool-advanced-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
         </p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="padding: 12px; text-align: center;">
+      <td colspan="3" style="padding: 12px; text-align: center;">
         <a href="https://ibqy.github.io" style="color: #656D76; font-size: 14px; text-decoration: none;">
           🌐 作品集网站 → ibqy.github.io
         </a>
