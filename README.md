@@ -63,6 +63,20 @@
     <tr>
       <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
         <h3 style="margin-top: 0;">
+          <a href="https://github.com/ibqy/mybatis-plus-demo" style="color: #2266EE; text-decoration: none;">
+            📘 MyBatis-Plus Demo <span style="font-size: 14px;">↗</span>
+          </a>
+        </h3>
+        <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
+          MyBatis-Plus 完整教学与实战项目 — Lambda 查询 / 通用 CRUD / 分页 / 乐观锁 / 代码生成器 / 事务。10 篇配套教学文档。
+        </p>
+        <p style="margin-top: 12px;">
+          <a href="https://github.com/ibqy/mybatis-plus-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none; margin-right: 6px;">📂 Repo</a>
+          <a href="https://gitee.com/baiqy/mybatis-plus-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">🇨🇳 Gitee</a>
+        </p>
+      </td>
+      <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
+        <h3 style="margin-top: 0;">
           <a href="https://github.com/ibqy/hutool-advanced-demo" style="color: #2266EE; text-decoration: none;">
             📚 Hutool Advanced Demo <span style="font-size: 14px;">↗</span>
           </a>
@@ -74,19 +88,12 @@
           <a href="https://github.com/ibqy/hutool-advanced-demo" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
         </p>
       </td>
-      <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
-        <h3 style="margin-top: 0;">
-          <a href="https://github.com/ibqy/ibqy.github.io" style="color: #2266EE; text-decoration: none;">
-            ibqy.github.io <span style="font-size: 14px;">↗</span>
-          </a>
-        </h3>
-        <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          个人作品集站点，HTML + CSS 纯手工构建，GitHub Pages 托管。展示项目与技术方向。
-        </p>
-        <p style="margin-top: 12px;">
-          <a href="https://ibqy.github.io" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none; margin-right: 6px;">🌐 Live</a>
-          <a href="https://github.com/ibqy/ibqy.github.io" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
-        </p>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 12px; text-align: center;">
+        <a href="https://ibqy.github.io" style="color: #656D76; font-size: 14px; text-decoration: none;">
+          🌐 作品集网站 → ibqy.github.io
+        </a>
       </td>
     </tr>
   </table>
