@@ -35,11 +35,11 @@
       <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
         <h3 style="margin-top: 0;">
           <a href="https://github.com/ibqy/ai-java-teaching-demos" style="color: #2266EE; text-decoration: none;">
-            🎓 AI Java 教学聚合工程 <span style="font-size: 14px;">↗</span>
+            🎓 AI Java 教学与实战聚合工程 <span style="font-size: 14px;">↗</span>
           </a>
         </h3>
         <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
-          AI Java 教学项目聚合工程。整合 Spring AI / Spring AI Alibaba / Semantic Kernel Java / AgentScope Java 四个教学子模块，共 40+ 个教学 Demo。
+          AI Java 教学与实战聚合工程。整合 Spring AI / Alibaba / Semantic Kernel / AgentScope 四大框架，40+ 实战 Demo，覆盖从基础 Chat 到 RAG/Agent/工具调用等完整场景。
         </p>
         <p style="margin-top: 12px;">
           <a href="https://github.com/ibqy/ai-java-teaching-demos" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none; margin-right: 6px;">📂 Repo</a>
