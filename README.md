@@ -58,14 +58,16 @@ I build web applications with a focus on clean architecture and user experience.
     </tr>
     <tr>
       <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
-        <h3 style="margin-top: 0; color: #656D76;">
-          ——
+        <h3 style="margin-top: 0;">
+          <a href="https://github.com/ibqy/spring-ai-lab" style="color: #2266EE; text-decoration: none;">
+            🤖 Spring AI Lab <span style="font-size: 14px;">↗</span>
+          </a>
         </h3>
-        <p style="color: #8B949E; font-size: 14px; line-height: 1.6;">
-          More projects will appear here as they are published.
+        <p style="color: #656D76; font-size: 14px; line-height: 1.6;">
+          Spring AI 全链路实战项目 — Chat / Streaming / Structured Output / Tool Calling / RAG。覆盖从对话到知识库问答的完整链路。
         </p>
-        <p style="margin-top: 12px; color: #8B949E; font-size: 13px;">
-          📌 Pin your repositories below
+        <p style="margin-top: 12px;">
+          <a href="https://github.com/ibqy/spring-ai-lab" style="display: inline-block; padding: 4px 14px; border: 1px solid #D0D7DE; border-radius: 6px; color: #1F2328; font-size: 13px; text-decoration: none;">📂 Repo</a>
         </p>
       </td>
       <td width="50%" style="padding: 16px; border: 1px solid #D0D7DE; border-radius: 8px; vertical-align: top;">
