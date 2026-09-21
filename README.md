@@ -48,10 +48,12 @@
 | 项目 | 简介 |
 |:---|:---|
 | 🔍 **[rag-hybrid-search-demo](https://github.com/ibqy/rag-hybrid-search-demo)** | RAG 高阶优化教学：高级分块 → 混合检索 → Rerank → 幻觉抑制 → 向量库运维 → 增量更新 |
+| 🤖 **[agent-orchestration-demo](https://github.com/ibqy/agent-orchestration-demo)** | 多 Agent 编排系统：推理模式 / 状态持久化 / 分层记忆 / 工具调用 / 熔断防护 |
+| 🏢 **[ai-platform-demo](https://github.com/ibqy/ai-platform-demo)** | 企业级 AI 中台网关：14 步管道 / 智能路由 / 多级缓存 / 多租户 / 虚拟线程 |
 | 🤖 **[agentscope-java-teaching-demo](https://github.com/ibqy/agentscope-java-teaching-demo)** | AgentScope for Java：HarnessAgent / 多智能体协作 / 记忆管理 / 流式输出 |
 | 🧠 **[semantic-kernel-java-teaching-demo](https://github.com/ibqy/semantic-kernel-java-teaching-demo)** | Semantic Kernel for Java：Kernel / ChatHistory / 插件机制 / 工具调用 / Agentic |
 | ☁️ **[spring-ai-alibaba-teaching-demo](https://github.com/ibqy/spring-ai-alibaba-teaching-demo)** | Spring AI Alibaba 教学演示：通义千问 DashScope 全场景覆盖 |
-| 🌱 **[spring-ai-teaching-demo](https://github.com/ibqy/spring-ai-teaching-demo)** | Spring AI 基础教学：流式 / 结构化输出 / 提示词 / 函数调用 / Advisor 全场景 |
+| 🌱 **[spring-ai-teaching-demo](https://github.com/ibqy/spring-ai-teaching-demo)** | Spring AI 基础教学：18 个渐进式 Demo / 流式 / RAG / 工具调用 / MCP / 多模态 |
 | 🧪 **[spring-ai-lab](https://github.com/ibqy/spring-ai-lab)** | Spring AI 实战实验室：Chat / Tool Calling / RAG 全链路 + REST API |
 
 ## ⚙️ Java 后端工程
@@ -59,10 +61,11 @@
 | 项目 | 简介 |
 |:---|:---|
 | 🌩 **[spring-cloud-micro-demo](https://github.com/ibqy/spring-cloud-micro-demo)** | Spring Cloud 微服务教学：Gateway 网关 + OpenFeign 声明式调用 + 用户/订单业务 |
+| 🚀 **[spring-advanced-demo](https://github.com/ibqy/spring-advanced-demo)** | Spring Boot 4.1 + Framework 7.0 高阶：gRPC / 虚拟线程 / AOT / 可观测性 / Security 10 个 Demo |
 | 💳 **[pay-teaching-demo](https://github.com/ibqy/pay-teaching-demo)** | 支付宝 + 微信支付官方 SDK 对接实战：下单 / 回调 / 验签完整链路 |
-| 🧱 **[ddd-arch-demo](https://github.com/ibqy/ddd-arch-demo)** | DDD 领域驱动设计教学：电商订单场景四层架构 |
+| 🧱 **[ddd-arch-demo](https://github.com/ibqy/ddd-arch-demo)** | DDD 领域驱动设计教学：电商订单场景四层架构 + Spring Modulith 对照 |
 | 📘 **[mybatis-plus-demo](https://github.com/ibqy/mybatis-plus-demo)** | MyBatis-Plus 完整实战：Lambda 查询 / CRUD / 代码生成器 / 事务 + 10 篇配套文档 |
-| 🧰 **[hutool-advanced-demo](https://github.com/ibqy/hutool-advanced-demo)** | Hutool 高级用法：HTTP / 缓存 / JWT / AOP / Excel / 树结构 10+ 场景 |
+| 🧰 **[hutool-advanced-demo](https://github.com/ibqy/hutool-advanced-demo)** | Hutool 13 大模块生产场景：HTTP / 缓存 / JWT / AOP / Excel / 树结构 |
 
 ---
 
