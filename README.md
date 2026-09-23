@@ -53,6 +53,7 @@
 | 🤖 **[agentscope-java-teaching-demo](https://github.com/ibqy/agentscope-java-teaching-demo)** | AgentScope for Java：HarnessAgent / 多智能体协作 / 记忆管理 / 流式输出 |
 | 🧠 **[semantic-kernel-java-teaching-demo](https://github.com/ibqy/semantic-kernel-java-teaching-demo)** | Semantic Kernel for Java：Kernel / ChatHistory / 插件机制 / 工具调用 / Agentic |
 | ☁️ **[spring-ai-alibaba-teaching-demo](https://github.com/ibqy/spring-ai-alibaba-teaching-demo)** | Spring AI Alibaba 教学演示：通义千问 DashScope 全场景覆盖 |
+| 🔀 **[spring-ai-alibaba-graph-demo](https://github.com/ibqy/spring-ai-alibaba-graph-demo)** | Spring AI Alibaba Graph 18 课：StateGraph 基础 / 高阶 / 实战，含完整文档站 |
 | 🌱 **[spring-ai-teaching-demo](https://github.com/ibqy/spring-ai-teaching-demo)** | Spring AI 基础教学：18 个渐进式 Demo / 流式 / RAG / 工具调用 / MCP / 多模态 |
 | 🧪 **[spring-ai-lab](https://github.com/ibqy/spring-ai-lab)** | Spring AI 实战实验室：Chat / Tool Calling / RAG 全链路 + REST API |
 
