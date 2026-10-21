@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/ibqy"><img src="https://img.shields.io/badge/GitHub-ibqy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://ibqy.github.io"><img src="https://img.shields.io/badge/Blog-ibqy.github.io-0969DA?style=flat-square&logo=githubpages&logoColor=white" alt="Blog"></a>
+  <a href="https://ibqy.github.io/curriculum"><img src="https://img.shields.io/badge/学习路径-Java_×_AI-2F6FEB?style=flat-square" alt="学习路径"></a>
   <a href="https://gitee.com/baiqy"><img src="https://img.shields.io/badge/Gitee-baiqy-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"></a>
   <a href="mailto:1274464354@qq.com"><img src="https://img.shields.io/badge/Email-1274464354@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -24,18 +25,38 @@
 
 ---
 
+## 🗺 学习路径
+
+15 个项目按依赖关系串成五个阶段，**由浅入深、不跳阶段**。完整路线、验收标准与推荐节奏见 **[Java × AI 进阶学习路径](https://ibqy.github.io/curriculum)**。
+
+| 阶段 | 主题 | 项目顺序 |
+|:---:|:---|:---|
+| **0** | 工程地基 | [Hutool 高级用法](https://ibqy.github.io/hutool-advanced-demo/) → [MyBatis-Plus 从零到原理](https://ibqy.github.io/mybatis-plus-demo/) |
+| **1** | 架构与资金安全 | [DDD 架构](https://ibqy.github.io/ddd-arch-demo/) → [Spring Cloud 微服务](https://ibqy.github.io/spring-cloud-micro-demo/) → [Spring Boot 高阶](https://ibqy.github.io/spring-advanced-demo/) → [支付对接](https://ibqy.github.io/pay-teaching-demo/) |
+| **2** | AI 应用工程入门 | [Spring AI](https://ibqy.github.io/spring-ai-teaching-demo/) → [Spring AI Alibaba](https://ibqy.github.io/spring-ai-alibaba-teaching-demo/) → [Semantic Kernel](https://ibqy.github.io/semantic-kernel-java-teaching-demo/) → [AgentScope](https://ibqy.github.io/agentscope-java-teaching-demo/) |
+| **3** | 图编排与可恢复工作流 | [SAA Graph](https://ibqy.github.io/spring-ai-alibaba-graph-demo/) → [LangGraph4j](https://ibqy.github.io/langgraph4j-teaching-demo/) → [复杂 Agent 编排](https://ibqy.github.io/agent-orchestration-demo/) |
+| **4** | 生产级 AI 工程 | [RAG 高阶混合检索](https://ibqy.github.io/rag-hybrid-search-demo/) → [企业级 AI 平台](https://ibqy.github.io/ai-platform-demo/) |
+
+> 每个项目都有三种产出：**可运行代码**（含中文注释）、**在线课件**（VitePress 站）、**验收标准**（会做什么）。
+
+---
+
 ## 🛠 技术栈
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-17+-EA2D2E?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-1.x-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2023.x-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3.x-BF3A28?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21-EA2D2E?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.16_~_4.1.1-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-1.1.8_~_2.0.1-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025.0.3-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Modulith](https://img.shields.io/badge/Spring_Modulith-1.4.x-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel_Java-1.5.0-0078D4?style=flat-square)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1.22.0-1C3C3C?style=flat-square)
+![AgentScope](https://img.shields.io/badge/AgentScope-2.0.4-7B3FE4?style=flat-square)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3.5.17-BF3A28?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Hutool](https://img.shields.io/badge/Hutool-5.x-1E88E5?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Hutool](https://img.shields.io/badge/Hutool-5.8.48-1E88E5?style=flat-square)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
