@@ -27,12 +27,12 @@
 
 ## 🗺 学习路径
 
-16 个项目按依赖关系串成五个阶段，**由浅入深、不跳阶段**。完整路线、验收标准与推荐节奏见 **[Java × AI 进阶学习路径](https://ibqy.github.io/curriculum)**。
+17 个项目按依赖关系串成五个阶段，**由浅入深、不跳阶段**。完整路线、验收标准与推荐节奏见 **[Java × AI 进阶学习路径](https://ibqy.github.io/curriculum)**。
 
 | 阶段 | 主题 | 项目顺序 |
 |:---:|:---|:---|
 | **0** | 工程地基 | [Hutool 高级用法](https://ibqy.github.io/hutool-advanced-demo/) → [MyBatis-Plus 从零到原理](https://ibqy.github.io/mybatis-plus-demo/) |
-| **1** | 架构、缓存与资金安全 | [DDD 架构](https://ibqy.github.io/ddd-arch-demo/) → [Spring Cloud 微服务](https://ibqy.github.io/spring-cloud-micro-demo/) → [Spring Boot 高阶](https://ibqy.github.io/spring-advanced-demo/) → [Redis 与高并发](https://ibqy.github.io/redis-advanced-demo/) → [支付对接](https://ibqy.github.io/pay-teaching-demo/) |
+| **1** | 架构、缓存与资金安全 | [DDD 架构](https://ibqy.github.io/ddd-arch-demo/) → [Spring Cloud 微服务](https://ibqy.github.io/spring-cloud-micro-demo/) → [Spring Boot 高阶](https://ibqy.github.io/spring-advanced-demo/) → [Quarkus 云原生运行时](https://ibqy.github.io/quarkus-teaching-demo/) → [Redis 与高并发](https://ibqy.github.io/redis-advanced-demo/) → [支付对接](https://ibqy.github.io/pay-teaching-demo/) |
 | **2** | AI 应用工程入门 | [Spring AI](https://ibqy.github.io/spring-ai-teaching-demo/) → [Spring AI Alibaba](https://ibqy.github.io/spring-ai-alibaba-teaching-demo/) → [Semantic Kernel](https://ibqy.github.io/semantic-kernel-java-teaching-demo/) → [AgentScope](https://ibqy.github.io/agentscope-java-teaching-demo/) |
 | **3** | 图编排与可恢复工作流 | [SAA Graph](https://ibqy.github.io/spring-ai-alibaba-graph-demo/) → [LangGraph4j](https://ibqy.github.io/langgraph4j-teaching-demo/) → [复杂 Agent 编排](https://ibqy.github.io/agent-orchestration-demo/) |
 | **4** | 生产级 AI 工程 | [RAG 高阶混合检索](https://ibqy.github.io/rag-hybrid-search-demo/) → [企业级 AI 平台](https://ibqy.github.io/ai-platform-demo/) |
@@ -47,6 +47,7 @@
 
 ![Java](https://img.shields.io/badge/Java-21-EA2D2E?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.16_~_4.1.1-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-3.40.1-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-1.1.8_~_2.0.1-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2025.0.3-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Modulith](https://img.shields.io/badge/Spring_Modulith-1.4.x-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -84,6 +85,7 @@
 |:---|:---|
 | 🌩 **[spring-cloud-micro-demo](https://github.com/ibqy/spring-cloud-micro-demo)** | Spring Cloud 微服务教学：Gateway 网关 + OpenFeign 声明式调用 + 用户/订单业务 |
 | 🚀 **[spring-advanced-demo](https://github.com/ibqy/spring-advanced-demo)** | Spring Boot 4.1 + Framework 7.0 高阶：gRPC / 虚拟线程 / AOT / 可观测性 / Security 10 个 Demo |
+| ⚡ **[quarkus-teaching-demo](https://github.com/ibqy/quarkus-teaching-demo)** | Quarkus 3.40 云原生运行时 12 课：构建期增强 / ArC 注入 / Panache / 虚拟线程 / 容错 / Native Image，50 个用例离线全绿 |
 | ⚡ **[redis-advanced-demo](https://github.com/ibqy/redis-advanced-demo)** | Redis 与高并发：缓存三大问题 / 一致性时序 / 分布式锁 / 四种限流算法 / 热点 key / 语义缓存，64 个测试离线可跑 |
 | 💳 **[pay-teaching-demo](https://github.com/ibqy/pay-teaching-demo)** | 支付宝 + 微信支付官方 SDK 对接实战：下单 / 回调 / 验签完整链路 |
 | 🧱 **[ddd-arch-demo](https://github.com/ibqy/ddd-arch-demo)** | DDD 领域驱动设计教学：电商订单场景四层架构 + Spring Modulith 对照 |
